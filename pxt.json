@@ -1,0 +1,24 @@
+{
+    "name": "bewegungsmelter",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "Bewegungsmelder": "github:techfly888/timer#a39ce7d7cd18f6b4a46e29b3baa668c94c12f170"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.29",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
